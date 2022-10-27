@@ -13,3 +13,8 @@ Workbench Crear una tabla llamada 'products'. Los campos necesarios son: id, nam
 - La contraseña para la base de datos es "Admin$1234".
 
 - Consta de un Index, 3 Servlet y la libreria de "connect mysql".
+
+Algunas Caturas:
+
+![Imagen de WhatsApp 2022-10-24 a las 11 44 06](https://user-images.githubusercontent.com/98372790/198316359-6a51219a-7f8e-43c7-b859-cae714e2b874.jpg)
+![Imagen de WhatsApp 2022-10-24 a las 11 44 21](https://user-images.githubusercontent.com/98372790/198316379-61ce08b8-ab8f-42ef-a78d-cf8338215258.jpg)
